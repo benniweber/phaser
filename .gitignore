@@ -9,10 +9,11 @@ Phaser.sublime-workspace
 *.suo
 *.sublime-project
 *.sublime-workspace
+/.project
+/.settings
 
 # Vendors
 node_modules/
 
 # Build
 dist/
-/.project
